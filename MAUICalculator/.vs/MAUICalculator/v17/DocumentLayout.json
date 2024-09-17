@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\MAUICalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93492584-C49E-4148-9B4D-002295D26A85}|MAUICalculator\\MAUICalculator.csproj|c:\\users\\admin\\source\\repos\\mauicalculator\\mauicalculator\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93492584-C49E-4148-9B4D-002295D26A85}|MAUICalculator\\MAUICalculator.csproj|solutionrelative:mauicalculator\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93492584-C49E-4148-9B4D-002295D26A85}|MAUICalculator\\MAUICalculator.csproj|c:\\users\\admin\\source\\repos\\mauicalculator\\mauicalculator\\mvvm\\viewmodels\\calcviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93492584-C49E-4148-9B4D-002295D26A85}|MAUICalculator\\MAUICalculator.csproj|solutionrelative:mauicalculator\\mvvm\\viewmodels\\calcviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93492584-C49E-4148-9B4D-002295D26A85}|MAUICalculator\\MAUICalculator.csproj|c:\\users\\admin\\source\\repos\\mauicalculator\\mauicalculator\\mvvm\\views\\calcview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93492584-C49E-4148-9B4D-002295D26A85}|MAUICalculator\\MAUICalculator.csproj|solutionrelative:mauicalculator\\mvvm\\views\\calcview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MAUICalculator\\MAUICalculator\\App.xaml",
+              "RelativeDocumentMoniker": "MAUICalculator\\App.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MAUICalculator\\MAUICalculator\\App.xaml",
+              "RelativeToolTip": "MAUICalculator\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-17T07:47:07.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalcViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MAUICalculator\\MAUICalculator\\MVVM\\ViewModels\\CalcViewModel.cs",
+              "RelativeDocumentMoniker": "MAUICalculator\\MVVM\\ViewModels\\CalcViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MAUICalculator\\MAUICalculator\\MVVM\\ViewModels\\CalcViewModel.cs",
+              "RelativeToolTip": "MAUICalculator\\MVVM\\ViewModels\\CalcViewModel.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwCgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T07:33:24.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalcView.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MAUICalculator\\MAUICalculator\\MVVM\\Views\\CalcView.xaml",
+              "RelativeDocumentMoniker": "MAUICalculator\\MVVM\\Views\\CalcView.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MAUICalculator\\MAUICalculator\\MVVM\\Views\\CalcView.xaml",
+              "RelativeToolTip": "MAUICalculator\\MVVM\\Views\\CalcView.xaml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAHoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-17T07:33:13.142Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
